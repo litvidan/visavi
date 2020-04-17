@@ -1,0 +1,23 @@
+address
+{
+	color:red;
+}
+body
+{
+	background-color:black; 
+}
+
+[class="links"]
+{
+	color:green;
+}
+
+[class="boldtxt"]
+{
+	font-weight: bold;
+}
+
+[class="button"]
+{
+
+}
