@@ -12,7 +12,9 @@ body
 
 [class="links"]
 {
+	margin:10px;
 	color:lime;
+
 }
 
 [class="boldtxt"]
@@ -27,5 +29,22 @@ body
 [class="vis"]
 {
 	font-size: 64px;
+	padding: 1px;
+	margin-right:400px; 
+	margin-left:400px; 
+	background-color: lime;
+	color:black;
 
+}
+[class="tabs"]
+{
+	background-color: lime;
+	color:black;
+	margin-bottom:10px;
+	padding: 15px;
+
+}
+.tabs:hover
+{
+	border:10px solid lime;
 }
