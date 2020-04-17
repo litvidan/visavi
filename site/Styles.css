@@ -1,15 +1,18 @@
 address
 {
-	color:red;
+	color:green;/*цвет текста*/
+	border: 1px solid #000000;/*рамка*/
+	font-size:16px;/*размер текста*/
 }
+
 body
 {
-	background-color:black; 
+	background-color:#0D0D0D; /*цвет заднего фона*/
 }
 
 [class="links"]
 {
-	color:green;
+	color:lime;
 }
 
 [class="boldtxt"]
@@ -19,5 +22,10 @@ body
 
 [class="button"]
 {
+
+}
+[class="vis"]
+{
+	font-size: 64px;
 
 }
