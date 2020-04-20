@@ -31,6 +31,7 @@ body
 {
 	background-color: lime;
 	color: black;
+	text-transform: uppercase;
 }
 .links:visited/*если ты уже переходил по данной ссылке, то будут применены следующиие стили*/
 {
@@ -84,4 +85,16 @@ body
 	color:black;
 	padding: 15px;
 	border:7px;
+}
+
+#testblock
+{
+	border: 2px solid green;
+	height: 40px;
+	width: 150px;
+	background-color: lime;
+	color: black;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: -1px;
 }
